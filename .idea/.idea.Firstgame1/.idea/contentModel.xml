@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Artur\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Artur\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Firstgame1.489913289.00" t="ExcludeRecursive" />
+    <e p="D:\Projects Unity\Firstgame1" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="2DWeaponPack" t="Include">
+          <e p="Demo" t="Include" />
+          <e p="Sprites" t="Include">
+            <e p="AK-47" t="Include" />
+            <e p="AWP" t="Include" />
+            <e p="Bullets" t="Include" />
+            <e p="Deagle" t="Include" />
+            <e p="Five_seven" t="Include" />
+            <e p="Glock_18" t="Include" />
+            <e p="Knife" t="Include" />
+            <e p="M4A4" t="Include" />
+            <e p="Nova" t="Include" />
+            <e p="PSL" t="Include" />
+            <e p="README.txt" t="Include" />
+            <e p="Rpg" t="Include" />
+            <e p="Sawed_off" t="Include" />
+            <e p="UMP" t="Include" />
+            <e p="Utility" t="Include" />
+            <e p="UZI" t="Include" />
+          </e>
+        </e>
+        <e p="bullet.cs" t="Include" />
+        <e p="Enemy.cs" t="Include" />
+        <e p="Mighty Heroes (Rogue) 2D Fantasy Characters Pack" t="Include">
+          <e p="Animations" t="Include">
+            <e p="Rogue_animations" t="Include" />
+          </e>
+          <e p="Prefabs" t="Include" />
+          <e p="Rogue" t="Include" />
+          <e p="Weapons" t="Include" />
+        </e>
+        <e p="Movement.cs" t="Include" />
+        <e p="Prefabs" t="Include" />
+        <e p="Scenes" t="Include" />
+        <e p="Shoot.cs" t="Include" />
+        <e p="Sprites" t="Include" />
+      </e>
+      <e p="Firstgame1.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -3,21 +3,31 @@ using static UnityEngine.GraphicsBuffer;
 
 public class Enemy : MonoBehaviour
 {
-    public int health;
-    public float speed;
-    public Movement Player;
+    [SerializeField] private int _health;
+    [SerializeField] private float _speed;
+    [SerializeField] private Movement _player;
+
+    private Vector3 _posPlayer;
     
-    void Update()
+    private void Update()
     {
-        float angle = Mathf.Atan2(Player.transform.position.y - transform.position.y, Player.transform.position.x - transform.position.x) * Mathf.Rad2Deg + transform.eulerAngles.y;
+        Move();
+                
+        _posPlayer = _player.transform.position;
+        float angle = Mathf.Atan2(_posPlayer.y, transform.position.x) * 
+                Mathf.Rad2Deg + transform.eulerAngles.y;
         transform.rotation = Quaternion.Euler(0, 0, angle);
-        transform.position += transform.forward * speed * Time.deltaTime;
+    }
+
+    private void Move()
+    {
+        transform.position += transform.forward * _speed * Time.deltaTime;
     }
 
     public void TakeDamage(int damage)
     {
-        health -= damage;
-        if (health <= 0)
+        _health -= damage;
+        if (_health <= 0)
         {
             Destroy(gameObject);
         }

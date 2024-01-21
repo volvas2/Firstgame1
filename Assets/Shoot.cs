@@ -7,9 +7,10 @@ public class Shoot : MonoBehaviour
     [SerializeField] private float _minAngleRot = -60;
     [SerializeField] private float _maxAngleRot = 40;
 
-    [SerializeField] Bullet _bullet;
-    [SerializeField] Transform _shotPoint;
-    [SerializeField] Transform _gun;
+    [Header("Components")]
+    [SerializeField] private Bullet _bullet;
+    [SerializeField] private Transform _shotPoint;
+    [SerializeField] private Transform _gun;
 
     private void Update()
     {

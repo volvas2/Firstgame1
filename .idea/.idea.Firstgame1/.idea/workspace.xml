@@ -6,20 +6,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47489f2e-0af6-42d2-9543-1603454e55ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Enemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MovePlayer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MovePlayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Firstgame1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Firstgame1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Firstgame1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Firstgame1/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Firstgame1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Firstgame1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DWeaponPack/Demo/Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/2DWeaponPack/Demo/Demo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_02.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_03.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_03.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_04.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_04.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_05.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_05.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_06.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/Prefabs/Rogue_06.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mighty Heroes (Rogue) 2D Fantasy Characters Pack/scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/bullet.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bullet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/gun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shoot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/gun.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shoot.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +41,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/Scripts/ObjectView.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -38,6 +49,23 @@
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Shoot.cs" />
         <option value="$PROJECT_DIR$/Assets/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpawnerComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objjects/ObjectFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objjects/SpawnerComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/ObjectComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/ObjectFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/SpawnerComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/ObjectView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/Shoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/Scripts/DestroyObjectController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/Scripts/ColorComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/Scripts/TriggerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/Scripts/ObjectTriggerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/Scripts/ImpulseController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/Scripts/Shoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/Scripts/GroundTriggerComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/Scripts/SpawnerComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lessons/Rain 3D Objects/Scripts/ObjectView.cs" />
       </list>
     </option>
   </component>
@@ -83,6 +111,9 @@
       <updated>1705414344907</updated>
       <workItem from="1705414346839" duration="1055000" />
       <workItem from="1705592828683" duration="2811000" />
+      <workItem from="1706017491257" duration="7625000" />
+      <workItem from="1706073832842" duration="4702000" />
+      <workItem from="1706096374267" duration="2315000" />
     </task>
     <servers />
   </component>
@@ -132,6 +163,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="832" y="224" key="RiderGenerateDialog" timestamp="1706076888053">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="832" y="224" key="RiderGenerateDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1706076888053" />
     <state x="461" y="170" key="SettingsEditor" timestamp="1705593168973">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

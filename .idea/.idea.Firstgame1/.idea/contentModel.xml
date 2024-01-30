@@ -27,8 +27,39 @@
             <e p="UZI" t="Include" />
           </e>
         </e>
+        <e p="Allsorts" t="Include">
+          <e p="FBX Meshes" t="Include">
+            <e p="Materials" t="Include" />
+          </e>
+          <e p="Prefabs" t="Include" />
+          <e p="tex" t="Include" />
+        </e>
+        <e p="Allsorts Native" t="Include">
+          <e p="Materials" t="Include" />
+        </e>
         <e p="bullet.cs" t="Include" />
         <e p="Enemy.cs" t="Include" />
+        <e p="Lessons" t="Include">
+          <e p="Rain 3D Objects" t="Include">
+            <e p="Physics Materials" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="Audios" t="Include" />
+              <e p="Materials" t="Include" />
+              <e p="Prefabs" t="Include" />
+            </e>
+            <e p="Scenes" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="ColorComponent.cs" t="Include" />
+              <e p="DestroyObjectController.cs" t="Include" />
+              <e p="ImpulseController.cs" t="Include" />
+              <e p="ObjectFactory.cs" t="Include" />
+              <e p="ObjectTriggerController.cs" t="Include" />
+              <e p="ObjectView.cs" t="Include" />
+              <e p="Shoot.cs" t="Include" />
+              <e p="SpawnerComponent.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Mighty Heroes (Rogue) 2D Fantasy Characters Pack" t="Include">
           <e p="Animations" t="Include">
             <e p="Rogue_animations" t="Include" />
@@ -40,6 +71,7 @@
         <e p="Movement.cs" t="Include" />
         <e p="Prefabs" t="Include" />
         <e p="Scenes" t="Include" />
+        <e p="Settings" t="Include" />
         <e p="Shoot.cs" t="Include" />
         <e p="Sprites" t="Include" />
       </e>
